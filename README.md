@@ -2,7 +2,6 @@
 
 A multivariate Powell's Method Optimizer. Multicore CPU. Pure C#, no binaries. No dependencies except for Microsoft's unit testing.
 
-</br>
 This code is free for non-commercial use. A commercial use license is $5 Canadian.</br>
 Make a purchase [here.](https://TranscendAI.tech/paylanding.html)</br>
 
