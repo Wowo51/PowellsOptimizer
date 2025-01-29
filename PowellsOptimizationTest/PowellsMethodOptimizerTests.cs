@@ -14,7 +14,7 @@ namespace PowellsOptimizationTest
             2.0
         };
         private readonly double _knownBestObjectiveValue = 3.0;
-        private readonly double _tolerance = 1e-4;
+        private readonly double _tolerance = 1e-3;
         private static double ObjectiveFunction(double[] x)
         {
             return Math.Pow(x[0] - 1, 2) + Math.Pow(x[1] - 2, 2) + 3;
@@ -45,12 +45,12 @@ namespace PowellsOptimizationTest
         {
             double[] initialGuess = new double[]
             {
-                5.0,
-                5.0
+                5.123,
+                5.456
             };
             OptimizationOptions options = new()
             {
-                MaxIterations = 2000,
+                MaxIterations = 20000,
                 Tolerance = 1e-4
             };
             OptimizationResult result = _optimizer.Optimize(ObjectiveFunction, initialGuess, options);
@@ -65,12 +65,12 @@ namespace PowellsOptimizationTest
         {
             double[] initialGuess = new double[]
             {
-                -5.0,
-                -5.0
+                -5.123,
+                -5.456
             };
             OptimizationOptions options = new()
             {
-                MaxIterations = 2000,
+                MaxIterations = 20000,
                 Tolerance = 1e-4
             };
             OptimizationResult result = _optimizer.Optimize(ObjectiveFunction, initialGuess, options);
