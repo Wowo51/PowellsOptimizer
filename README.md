@@ -2,6 +2,10 @@
 
 A multivariate Powell's Method Optimizer. Multicore CPU. Pure C#, no binaries. No dependencies except for Microsoft's unit testing.
 
+</br>
+This code is free for non-commercial use. A commercial use license is $5 Canadian.</br>
+Make a purchase [here.](https://TranscendAI.tech/paylanding.html)</br>
+
 ## What is Powell's Method?
 Powell's Method is a derivative-free optimization algorithm that minimizes (or maximizes) a function by iteratively updating a set of search directions. Unlike gradient-based methods, Powell's Method does not require function derivatives, making it useful for optimizing non-smooth functions.
 
@@ -61,9 +65,6 @@ The **PowellsOptimizationTest** project provides MSTest-based unit tests verifyi
 - Performance may degrade for high-dimensional problems without additional enhancements.
 
 ![AI Image](aiimage.jpg)
-</br>
-This code is free for non-commercial use. A commercial use license is $20 Canadian.</br>
-Make a purchase [here.](https://TranscendAI.tech/paylanding.html)</br>
 </br>
 Copyright [TranscendAI.tech](https://TranscendAI.tech) 2025.</br>
 Authored by Warren Harding. AI assisted.</br>
