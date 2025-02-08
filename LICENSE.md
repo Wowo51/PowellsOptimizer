@@ -1,19 +1,21 @@
-# TranscendAI.tech Non-Commercial License
+MIT License
 
-Version 1.0
+Copyright (c) 2024 Warren Harding
 
-**Use**  
-You are granted the right to use, modify, and distribute the source code for non-commercial purposes.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-**Testing**  
-You may test the source code in for-profit environments without restrictions. You must purchase a commercial use license before distributing the source code in any way in a purchasable product.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-**Attribution**  
-If you use the source code publicly or incorporate it into a public product, you must provide appropriate attribution to TranscendAI.tech.
-
-**Commercial Use**  
-Any commercial use of the source code requires obtaining a separate commercial license from TranscendAI.tech.
-
-**Disclaimer**  
-The source code is provided "as is", without warranty of any kind. TranscendAI.tech is not liable for any claims or damages arising from its use.
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
